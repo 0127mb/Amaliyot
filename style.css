@@ -1,0 +1,41 @@
+header{display: flex;  align-items: center; justify-content: space-around; width: 100%;
+height: 140px;border: 2px solid rgba(222, 219, 219, 1);
+border-width: 2px;
+}
+select{border: none; background-color: blue; color: white;  width: 70px; height: 40px;}
+option{border: none;   background-color: black; color: white;}
+header div{display: flex;align-items: center; gap: 20px;} 
+main{ width: 650px;
+height: 786px;
+top: 186px;
+left: 395px;
+border-width: 1px;
+border-radius: 50px; margin: 0 auto;
+}
+.div {
+display: flex; 
+justify-content: space-between; }
+a{text-decoration: none; color: gray; font-size: 25px;  margin: 0 auto;
+} .a{width: 533px;
+height: 70px;
+top: 498px;
+left: 459px;
+border-radius: 20px;  box-shadow: 10px 10px 10px color white; background-color: white;
+}
+a:hover{ text-shadow: 10px 10px 10px color white; color:black} input{
+width: 533px;
+height: 70px;
+top: 607px;
+left: 459px;
+border-radius: 20px;
+border-width: 1px; background: rgba(250, 250, 250, 1);
+border: 1px solid rgba(117, 117, 117, 0.19); border: none
+
+} body{text-align: center;}
+button{width: 202px;
+height: 67px;
+top: 868px;
+left: 785px;
+border-radius: 20px; border: none; background: rgba(246, 158, 134, 1);
+color: white;
+}
